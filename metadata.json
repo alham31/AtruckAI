@@ -1,0 +1,6 @@
+{
+  "name": "NotaScan OCR",
+  "description": "Aplikasi OCR struk belanja/nota dengan integrasi AI/Gemini untuk ekstraksi data otomatis, rekapitulasi pengeluaran, dan ekspor Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
